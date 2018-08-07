@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+C:/Users/Nitesh/Downloads/mosquitto-1.5/mosquitto-1.5/src/CMakeLists.txt
+C:/Program Files/CMake/share/cmake-3.11/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CheckFunctionExists.c

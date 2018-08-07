@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\src\mosquitto_passwd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C38CDF4D-AFEC-34DC-8938-5483D6825F24}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

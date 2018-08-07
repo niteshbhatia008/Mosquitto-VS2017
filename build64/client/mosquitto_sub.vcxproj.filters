@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\client\sub_client.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\client\sub_client_output.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\client\client_shared.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\client\client_shared.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\client\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{5BA69A26-27A8-3EC5-B182-A1DD9FC02400}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C38CDF4D-AFEC-34DC-8938-5483D6825F24}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

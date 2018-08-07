@@ -1,0 +1,19 @@
+﻿  Building Custom Rule C:/Users/Nitesh/Downloads/mosquitto-1.5/mosquitto-1.5/client/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/Nitesh/Downloads/mosquitto-1.5/mosquitto-1.5/build64/client/CMakeFiles/generate.stamp is up-to-date.
+  pub_client.c
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\client\pub_client.c(139): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\client\pub_client.c(197): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\client\pub_client.c(406): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  client_shared.c
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\client\client_shared.c(46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\client\client_shared.c(242): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\client\client_shared.c(343): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\client\client_shared.c(627): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\client\client_shared.c(749): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\client\client_shared.c(774): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\client\client_shared.c(823): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\client\client_shared.c(845): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\client\client_shared.c(959): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\client\client_shared.c(1036): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  mosquitto_pub.vcxproj -> C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\build64\client\Debug\mosquitto_pub.exe

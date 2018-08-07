@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\actions.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\callbacks.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\connect.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\handle_connack.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\handle_ping.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\handle_pubackcomp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\handle_publish.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\handle_pubrec.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\handle_pubrel.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\handle_suback.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\handle_unsuback.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\helpers.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\logging_mosq.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\loop.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\memory_mosq.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\messages_mosq.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\mosquitto.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\net_mosq.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\options.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\packet_mosq.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\read_handle.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\send_connect.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\send_disconnect.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\send_mosq.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\send_publish.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\send_subscribe.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\send_unsubscribe.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\socks_mosq.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\srv_mosq.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\thread_mosq.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\time_mosq.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\tls_mosq.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\utf8_mosq.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\util_mosq.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\will_mosq.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\logging_mosq.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\memory_mosq.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\messages_mosq.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\mosquitto.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\mosquitto_internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\mqtt3_protocol.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\net_mosq.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\packet_mosq.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\read_handle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\send_mosq.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\util_mosq.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\will_mosq.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\lib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{5BA69A26-27A8-3EC5-B182-A1DD9FC02400}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C38CDF4D-AFEC-34DC-8938-5483D6825F24}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

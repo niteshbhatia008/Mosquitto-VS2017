@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/Nitesh/Downloads/mosquitto-1.5/mosquitto-1.5/lib/cpp/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/Nitesh/Downloads/mosquitto-1.5/mosquitto-1.5/build64/lib/cpp/CMakeFiles/generate.stamp is up-to-date.
+  mosquittopp.cpp
+     Creating library C:/Users/Nitesh/Downloads/mosquitto-1.5/mosquitto-1.5/build64/lib/cpp/Debug/mosquittopp.lib and object C:/Users/Nitesh/Downloads/mosquitto-1.5/mosquitto-1.5/build64/lib/cpp/Debug/mosquittopp.exp
+  mosquittopp.vcxproj -> C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\build64\lib\cpp\Debug\mosquittopp.dll

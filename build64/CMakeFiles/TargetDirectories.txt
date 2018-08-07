@@ -1,0 +1,15 @@
+C:/Users/Nitesh/Downloads/mosquitto-1.5/mosquitto-1.5/build64/CMakeFiles/Tests.dir
+C:/Users/Nitesh/Downloads/mosquitto-1.5/mosquitto-1.5/build64/CMakeFiles/INSTALL.dir
+C:/Users/Nitesh/Downloads/mosquitto-1.5/mosquitto-1.5/build64/CMakeFiles/ALL_BUILD.dir
+C:/Users/Nitesh/Downloads/mosquitto-1.5/mosquitto-1.5/build64/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Nitesh/Downloads/mosquitto-1.5/mosquitto-1.5/build64/lib/CMakeFiles/libmosquitto.dir
+C:/Users/Nitesh/Downloads/mosquitto-1.5/mosquitto-1.5/build64/lib/CMakeFiles/INSTALL.dir
+C:/Users/Nitesh/Downloads/mosquitto-1.5/mosquitto-1.5/build64/lib/cpp/CMakeFiles/INSTALL.dir
+C:/Users/Nitesh/Downloads/mosquitto-1.5/mosquitto-1.5/build64/lib/cpp/CMakeFiles/mosquittopp.dir
+C:/Users/Nitesh/Downloads/mosquitto-1.5/mosquitto-1.5/build64/client/CMakeFiles/mosquitto_pub.dir
+C:/Users/Nitesh/Downloads/mosquitto-1.5/mosquitto-1.5/build64/client/CMakeFiles/mosquitto_sub.dir
+C:/Users/Nitesh/Downloads/mosquitto-1.5/mosquitto-1.5/build64/client/CMakeFiles/INSTALL.dir
+C:/Users/Nitesh/Downloads/mosquitto-1.5/mosquitto-1.5/build64/src/CMakeFiles/INSTALL.dir
+C:/Users/Nitesh/Downloads/mosquitto-1.5/mosquitto-1.5/build64/src/CMakeFiles/mosquitto.dir
+C:/Users/Nitesh/Downloads/mosquitto-1.5/mosquitto-1.5/build64/src/CMakeFiles/mosquitto_passwd.dir
+C:/Users/Nitesh/Downloads/mosquitto-1.5/mosquitto-1.5/build64/man/CMakeFiles/INSTALL.dir

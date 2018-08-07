@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\build64\CMakeFiles\813db228c6f59c7dd27dfece8417edcd\Tests.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\build64\CMakeFiles\Tests" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4279094F-147C-35F3-83A9-B3A2CB878F57}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

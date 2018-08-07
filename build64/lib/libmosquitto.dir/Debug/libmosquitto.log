@@ -1,0 +1,209 @@
+﻿  actions.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\actions.c(39): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\actions.c(106): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\actions.c(118): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  callbacks.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+  connect.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+  handle_connack.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+  handle_ping.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+  handle_pubackcomp.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+  handle_publish.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+  handle_pubrec.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+  handle_pubrel.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+  handle_suback.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+  handle_unsuback.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+  helpers.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+  logging_mosq.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\logging_mosq.c(36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  loop.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\loop.c(61): warning C4244: '=': conversion from 'mosq_sock_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\loop.c(107): warning C4244: '=': conversion from 'mosq_sock_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\loop.c(117): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+  memory_mosq.c
+  messages_mosq.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+  mosquitto.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\mosquitto.c(48): warning C4244: 'function': conversion from 'ULONGLONG' to 'unsigned int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\mosquitto.c(132): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\mosquitto.c(311): warning C4244: 'return': conversion from 'mosq_sock_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\mosquitto.c(411): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  net_mosq.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\net_mosq.c(347): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\net_mosq.c(364): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\net_mosq.c(607): warning C4244: 'function': conversion from 'mosq_sock_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\net_mosq.c(664): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\net_mosq.c(691): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\net_mosq.c(712): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\net_mosq.c(738): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  options.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\options.c(57): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  packet_mosq.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+  Generating Code...
+  Compiling...
+  read_handle.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+  send_connect.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\send_connect.c(74): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\send_connect.c(79): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\send_connect.c(82): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\send_connect.c(84): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\send_connect.c(98): warning C4267: 'function': conversion from 'size_t' to 'uint16_t', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\send_connect.c(100): warning C4267: 'function': conversion from 'size_t' to 'uint16_t', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\send_connect.c(123): warning C4267: 'function': conversion from 'size_t' to 'uint16_t', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\send_connect.c(125): warning C4267: 'function': conversion from 'size_t' to 'uint16_t', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\send_connect.c(129): warning C4267: 'function': conversion from 'size_t' to 'uint16_t', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\send_connect.c(131): warning C4267: 'function': conversion from 'size_t' to 'uint16_t', possible loss of data
+  send_disconnect.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+  send_mosq.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+  send_publish.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\send_publish.c(138): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\send_publish.c(152): warning C4267: 'function': conversion from 'size_t' to 'uint16_t', possible loss of data
+  send_subscribe.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\send_subscribe.c(47): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\send_subscribe.c(63): warning C4267: 'function': conversion from 'size_t' to 'uint16_t', possible loss of data
+  send_unsubscribe.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\send_unsubscribe.c(46): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\send_unsubscribe.c(62): warning C4267: 'function': conversion from 'size_t' to 'uint16_t', possible loss of data
+  socks_mosq.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\socks_mosq.c(134): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\socks_mosq.c(137): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\socks_mosq.c(167): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\socks_mosq.c(168): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  srv_mosq.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+  thread_mosq.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+  tls_mosq.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\tls_mosq.c(95): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  util_mosq.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\util_mosq.c(234): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\util_mosq.c(235): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  will_mosq.c
+c:\pthreads\pre-built.2\include\pthread.h(108): warning C4005: 'PTW32_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\pthread.h(95): note: see previous definition of 'PTW32_LEVEL'
+c:\pthreads\pre-built.2\include\sched.h(64): warning C4005: 'PTW32_SCHED_LEVEL': macro redefinition
+  c:\pthreads\pre-built.2\include\sched.h(51): note: see previous definition of 'PTW32_SCHED_LEVEL'
+c:\users\nitesh\downloads\mosquitto-1.5\mosquitto-1.5\lib\will_mosq.c(44): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+     Creating library C:/Users/Nitesh/Downloads/mosquitto-1.5/mosquitto-1.5/build64/lib/Debug/mosquitto.lib and object C:/Users/Nitesh/Downloads/mosquitto-1.5/mosquitto-1.5/build64/lib/Debug/mosquitto.exp
+  libmosquitto.vcxproj -> C:\Users\Nitesh\Downloads\mosquitto-1.5\mosquitto-1.5\build64\lib\Debug\mosquitto.dll
